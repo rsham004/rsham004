@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rsham004 (Ravi Shamihoke)
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning neurons
-- 💞️ I’m looking to collaborate on synthetic data in the social welfare domain
+- 👀 I’m learning data science
+- 💞️ I’m looking to collaborate on synthetic data creation in the social welfare domain
 - 📫 How to reach me linkedin
 - 😄 Pronouns: Him/Her
 - ⚡ Fun fact: Been homeless, penniless, suicidal at the end of COVID and survived all of it, ask if you need to know what skills I gained
