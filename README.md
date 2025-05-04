@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rsham004 (Ravi Shamihoke)
-- 👀 I’m learning data science
+- 👀 I’m learning data science via codebasics
 - 💞️ I’m looking to collaborate on synthetic data creation in the social welfare domain
+- I'm learning AI programming using VScode and a number of tools such as cline and other extensions via productfoundry.ai
 - 📫 How to reach me linkedin
 - 😄 Pronouns: Him/Her
 - ⚡ Fun fact: I use prisms in my glasses and hearing aids
