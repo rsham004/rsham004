@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @rsham004 (Ravi Shamihoke)
-- 👀 I’m learning data science via codebasics
-- 💞️ I’m looking to collaborate on synthetic data creation in the social welfare domain
-- I'm learning AI programming using VScode and a number of tools such as cline and other extensions via productfoundry.ai
-- 📫 How to reach me linkedin
-- 😄 Pronouns: Him/Her
+- 👀 I organzie AI Builders Circle from across NZ, AU, Minnesota and wider community ~ 1500 from these three geographies
+- 💞️ I’m looking to collaborate on agentic swarming
+- I use opencode, claudecode, VScode+cline 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use prisms in my glasses and hearing aids
 
 <!---
